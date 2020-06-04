@@ -1,4 +1,4 @@
-# Yolo-v3 and Yolo-v4 Facial Mask Detectr
+# Yolo-v3 and Yolo-v4 Facial Mask Detector
 ### (neural network detector) 
 
 Paper Yolo v3: https://arxiv.org/abs/1506.02640
